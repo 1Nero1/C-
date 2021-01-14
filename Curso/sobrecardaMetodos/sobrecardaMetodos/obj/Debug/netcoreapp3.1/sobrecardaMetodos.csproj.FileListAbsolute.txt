@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\bin\Debug\netcoreapp3.1\sobrecardaMetodos.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\sobrecardaMetodos\sobrecardaMetodos\obj\Debug\netcoreapp3.1\sobrecardaMetodos.genruntimeconfig.cache
