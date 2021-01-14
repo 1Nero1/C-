@@ -1,0 +1,13 @@
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.csprojAssemblyReference.cache
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.AssemblyInfoInputs.cache
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.AssemblyInfo.cs
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.exe
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.deps.json
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.runtimeconfig.json
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.runtimeconfig.dev.json
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.dll
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\bin\Debug\netcoreapp3.1\ambitoMetodo.pdb
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.dll
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.pdb
+C:\Users\Pikachu\source\repos\ambitoMetodo\ambitoMetodo\obj\Debug\netcoreapp3.1\ambitoMetodo.genruntimeconfig.cache
