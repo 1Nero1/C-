@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\bin\Debug\netcoreapp3.1\PerdirDatosAlUsuario.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\PerdirDatosAlUsuario\PerdirDatosAlUsuario\obj\Debug\netcoreapp3.1\PerdirDatosAlUsuario.genruntimeconfig.cache

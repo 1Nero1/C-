@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\bin\Debug\netcoreapp3.1\Practicando_Metodos.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Practicando_Metodos\Practicando_Metodos\obj\Debug\netcoreapp3.1\Practicando_Metodos.genruntimeconfig.cache
