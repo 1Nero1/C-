@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\bin\Debug\netcoreapp3.1\parametrosOpcioneales.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\parametrosOpcioneales\parametrosOpcioneales\obj\Debug\netcoreapp3.1\parametrosOpcioneales.genruntimeconfig.cache
