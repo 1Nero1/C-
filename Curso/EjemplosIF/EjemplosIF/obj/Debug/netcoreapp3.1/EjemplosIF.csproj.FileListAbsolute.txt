@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\bin\Debug\netcoreapp3.1\EjemplosIF.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemplosIF\EjemplosIF\obj\Debug\netcoreapp3.1\EjemplosIF.genruntimeconfig.cache
