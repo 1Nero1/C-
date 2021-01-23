@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.genruntimeconfig.cache
