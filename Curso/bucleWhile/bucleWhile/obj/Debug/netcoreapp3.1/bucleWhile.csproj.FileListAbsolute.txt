@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\bin\Debug\netcoreapp3.1\bucleWhile.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\bucleWhile\bucleWhile\obj\Debug\netcoreapp3.1\bucleWhile.genruntimeconfig.cache

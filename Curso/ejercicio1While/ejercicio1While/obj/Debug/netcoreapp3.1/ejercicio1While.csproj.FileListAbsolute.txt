@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\bin\Debug\netcoreapp3.1\ejercicio1While.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\ejercicio1While\ejercicio1While\obj\Debug\netcoreapp3.1\ejercicio1While.genruntimeconfig.cache
