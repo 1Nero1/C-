@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.genruntimeconfig.cache
