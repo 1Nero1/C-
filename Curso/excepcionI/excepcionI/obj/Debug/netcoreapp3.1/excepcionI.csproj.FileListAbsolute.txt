@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\bin\Debug\netcoreapp3.1\excepcionI.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\excepcionI\excepcionI\obj\Debug\netcoreapp3.1\excepcionI.genruntimeconfig.cache
