@@ -16,7 +16,13 @@ namespace excepcionI
             /*EjemploExcepcion2();*/
 
             // Muestra de una Excepcion Generica
-            EjemploExcepcion3();
+            /*EjemploExcepcion3();*/
+
+            // Conflictos en el uso de varios "catch"
+            /*EjemploExcepcion4();*/
+
+            // Captura de excepciones con filtros
+            EjemploExcepcion5();
         }
         static void EjemploExcepcion1()
         {
@@ -145,6 +151,103 @@ namespace excepcionI
                     // La indicacion sera en ingles
                     Console.WriteLine(ex.Message);
 
+                    respuesta = 0;
+                }
+
+                if (respuesta > aleatorio) Console.WriteLine("El número es más bajo.");
+                if (respuesta < aleatorio) Console.WriteLine("El número es más alto.");
+                intentos++;
+            } while (respuesta != aleatorio);
+
+            Console.WriteLine($"Correcto! lo intentastes {intentos} veces.");
+
+            Console.WriteLine("A partir de esta linea. El código continua...");
+        }
+
+        static void EjemploExcepcion4()
+        {
+            Random numero = new Random();
+
+            int aleatorio = numero.Next(0, 100);
+
+            int respuesta;
+            int intentos = 0;
+
+            Console.WriteLine("Escribe un número entre 0 y 100");
+            do
+            {
+                try
+                {
+                    respuesta = int.Parse(Console.ReadLine());
+                }
+                // BUENA ESTRUCTURA DE MUCHOS CATCH
+                    // Para tener un buen orden se deben colocar los chatch de más especifico
+                    // a menos especifico ya que si se coloca de manera contraria marcara error.
+
+                // CATCH ESPECIFICO
+                catch (FormatException ex)
+                {
+                    Console.WriteLine("Ingresaste letras en lugar de números.");
+                    Console.WriteLine("Se tomara como numero ingresado el 0");
+                    respuesta = 0;
+                }
+
+                // CATCH GENERICO
+                catch (Exception ex) // se coloca "e" de ERROR o "ex" de EXCEPCIÓN
+                {
+                    Console.WriteLine("Error");
+                    Console.WriteLine(ex.Message);
+                    respuesta = 0;
+                }
+
+                if (respuesta > aleatorio) Console.WriteLine("El número es más bajo.");
+                if (respuesta < aleatorio) Console.WriteLine("El número es más alto.");
+                intentos++;
+            } while (respuesta != aleatorio);
+
+            Console.WriteLine($"Correcto! lo intentastes {intentos} veces.");
+
+            Console.WriteLine("A partir de esta linea. El código continua...");
+        }
+
+        // Captura de Excepciones con filtros
+        static void EjemploExcepcion5()
+        {
+            Random numero = new Random();
+
+            int aleatorio = numero.Next(0, 100);
+
+            int respuesta;
+            int intentos = 0;
+
+            Console.WriteLine("Escribe un número entre 0 y 100");
+            do
+            {
+                try
+                {
+                    respuesta = int.Parse(Console.ReadLine());
+                }
+                //Excepciones con filtros
+                    // Para crear una excepcion con filtro se coloca la palabra "when()"
+                    // adelante de esta se escribe la excepcion que se desea excluir
+                    // para ello la variable colocada en excepction (e o ex) a conticuacion
+                    // . y la propiedad getType()
+                    // y el tipo de excepcion que escluiremos 
+                    // EJEMPLO;
+
+                // Excepcion Generica o General
+                catch (Exception ex) when(ex.GetType()!=typeof(FormatException))
+                // Lo que indicamos es que capture todas las excepciones menos la 
+                // "FormatException" ya que esa la colocaremos en otro catch
+                {
+                    Console.WriteLine("Error");
+                    Console.WriteLine(ex.Message);
+
+                    respuesta = 0;
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine("Haz introducido texto.");
                     respuesta = 0;
                 }
 
