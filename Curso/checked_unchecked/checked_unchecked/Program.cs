@@ -6,10 +6,32 @@ namespace checked_unchecked
     {
         static void Main(string[] args)
         {
-            // Ejemplo del uso de Unchecked
-            EjemploSinchecked();
+            // Los checked y uncheck, solo son usados para primitivos INT y LONG
 
-            EjemploConChecked();
+            // Ejemplo del uso de Unchecked
+            /*EjemploSinchecked();*/
+
+            /*EjemploConChecked();*/
+            /*EjemploDosConChecked();*/
+
+            // Para evitar estar poniendo y colocando CHECK'S Visual Studio tiene
+            // una configuracion para que lo haga sin colocar los CHECK'S.
+
+            // Para habilitarla devemos ir a la parte derecha en ESPLORADOR DE
+            // SOLUCIONES  buscar el proyecto con el cual trabajaremos y dar 
+            // CLICK DERECHO ir a PROPIEDADES buscar en la parte izquieda COMPILACIÓN
+            // y bajar hasta encontrar AVANZADO... y marcar la casilla de COMPROBAR EL
+            // DESBORDAMIENTO ARITMETICO, unavez realizado eso ACEPTAMOS y guardamos 
+            // CRTL+S y quedara listo...
+
+
+            // UNCHECKED
+            // Los unchecked se utilizan cuando queremos autorizar o pasar por alto 
+            // ciertos desbordamientos, y cuando tenemos habilitada la funcion de 
+            // Comprobar Desbordamiento Aritmetico...
+
+            // Para ver ete ejemplo recuerda tener habilitada la funcion de  Visual Studio
+            EjemploUnchecked();
         }
 
         static void EjemploSinchecked()
@@ -42,6 +64,31 @@ namespace checked_unchecked
             }
 
             Console.WriteLine("Más código...");
+        }
+
+        static void EjemploDosConChecked()
+        {
+            int numero = int.MaxValue;
+            Console.WriteLine("Este es el número maximo de un INT " + numero);
+
+            int suma = checked(numero + 15);
+            // Nos mandara error como debe de ser...
+
+            Console.WriteLine("sumamos el maximo valor +15 " + suma);
+            Console.WriteLine("Y más código...");
+        }
+
+        static void EjemploUnchecked()
+        {
+            int numero = int.MaxValue;
+            Console.WriteLine("El número maximo de INT es "+numero);
+
+            // UNCHECKED: se puede aplicar como "checked" con los corchetes o en una linea
+            // en este caso usaremos una sola linea.
+
+            int suma = unchecked(numero + 20);
+            Console.WriteLine("El resultado anterior se sumo + 20 " +suma);
+            Console.WriteLine("Aqui hay mucho más código...");
         }
     }
 }
