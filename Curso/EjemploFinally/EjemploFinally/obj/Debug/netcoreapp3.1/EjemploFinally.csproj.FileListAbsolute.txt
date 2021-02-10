@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp3.1\EjemploFinally.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp3.1\EjemploFinally.genruntimeconfig.cache
