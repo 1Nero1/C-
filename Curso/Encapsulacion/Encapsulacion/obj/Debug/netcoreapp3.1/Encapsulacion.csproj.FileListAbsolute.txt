@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\bin\Debug\netcoreapp3.1\Encapsulacion.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Encapsulacion\Encapsulacion\obj\Debug\netcoreapp3.1\Encapsulacion.genruntimeconfig.cache
