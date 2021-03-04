@@ -18,13 +18,32 @@ namespace Constructor
 
             //==Podemos Llamar/ ver nuestros datos de nuestros Objetos?==
                 //NO, Para ello tenecitamos un método de acceso. Para acceder a los DATOS/
-                // PROPIEDADES de una clase se led denomida "MÉTODOS GETTERS"
+                // PROPIEDADES de una clase se le denomida "MÉTODOS GETTERS"
 
             Console.WriteLine(ObjCoche.getRuedas());
 
             Console.WriteLine(ObjCoche.getInfoCoche());
 
             Console.WriteLine(ObjCoche2.getInfoCoche());
+
+            Console.WriteLine("Deseas agregar un nuevo valor al ancho y largo del coche? (si/no)");
+            string res = Console.ReadLine();
+
+            if (res == "si")
+            {
+                Console.WriteLine("Ingresa el largo del coche:");
+                double largoCoche = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Ingresa el ancho del coche:");
+                double anchoCoche = double.Parse(Console.ReadLine());
+
+                // Llamar al nuevo constructos
+                Coche ObjCoche3 = new Coche(largoCoche,anchoCoche);
+
+                Console.WriteLine(ObjCoche3.getInfoCoche());
+            }
+            
+            
         }
     }
 
@@ -46,6 +65,27 @@ namespace Constructor
             ancho = 0.800;
 
         }
+
+        //================================================
+        // SOBRE CARGA DE CONSTRUCTORES
+            // Asi como exiten "sobrecarga de métodos", tambien existen sobrecarga de
+            // constructores
+            // * Esto se produce cuando la clase tiene más de un constructor
+            // * De igual manera que el método, se produce siempre y cuando se requieran ciertos
+            // atributos
+            
+        // Ejemplo: en este caso necesitamos crear un vehiculo con nueva anchura y altura:
+        public Coche(double largoCoche,double anchoCoche)
+        {
+            ruedas = 4;
+
+            largo = largoCoche;
+
+            ancho = anchoCoche;
+        }
+
+
+        //================================================
 
         // Método de acceso get
             // este metodo de acceso solo es usado para acceder a las propiedades de
