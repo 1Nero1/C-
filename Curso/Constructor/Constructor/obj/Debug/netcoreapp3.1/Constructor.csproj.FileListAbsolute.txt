@@ -1,0 +1,13 @@
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.csprojAssemblyReference.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Pikachu\Desktop\Mis Practicas\C#\Curso\Constructor\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache
